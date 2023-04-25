@@ -136,15 +136,3 @@ Then click on the **load unpacked** button in the top left corner
 Once you clicked on the button you just need to select the **dist folder** and that's it ! 🎉
 
 <img alt="extension_tutorial" src="https://i.imgur.com/fH894v8.png" />
-
-## Authors
-
-👤 <a href="http://github.com/LasCC" alt="Github_account_Ludovic_COULON">**Ludovic COULON**<a/> & <a href="http://github.com/rb-x" alt="Github_account_Riadh_BOUCHAHOUA">**Riadh BOUCHAHOUA**<a/>
-
-## Show your support
-
-You can give a ⭐️ if this project helped you !
-
-Note that this project is maintained, developed and made available for **free**, you can offer us a coffee, it will be very **encouraging and greatly appreciated** 😊
-
-<a href="https://www.paypal.me/hacktoolsEXT" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" style="height: 30px !important;width: auto !important"></a>
